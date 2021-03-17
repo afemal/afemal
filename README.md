@@ -37,5 +37,5 @@ Hey there! :smile: My name is Amy. I'm a Data Science grad student with a underg
 
 <hr/>
 
-:star: From [@AmyFemal](https://github.com/afemal)
+From [@AmyFemal](https://github.com/afemal)
 
