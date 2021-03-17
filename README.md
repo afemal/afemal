@@ -12,7 +12,7 @@ Hey there! 😄 My name is Amy. I'm a Data Science grad student with a undergrad
 
 ## 💻 Projects 
 
-* [Predicting the Cost of Medical Insurance](https://github.com/afemal/Projects/tree/main/Predicting%20the%20Cost%20of%20Health%20Insurance) - [Presentation](https://youtu.be/F4EP5Q5jQlY) 
+* [Predicting the Cost of Medical Insurance](https://github.com/afemal/Projects/tree/main/Predicting%20the%20Cost%20of%20Health%20Insurance)
 
 * [Breast Cancer Diagnosis](https://github.com/afemal/Projects/blob/main/Breast%20Cancer%20Diagnosis/BreastCancerDiagnosis.ipynb)
 
