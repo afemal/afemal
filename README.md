@@ -2,11 +2,9 @@
   <img  src="https://user-images.githubusercontent.com/61814648/111558472-0c62d500-874c-11eb-954d-6c9520c731ec.png">
 </p>
 
-<br>
-
 <p align="center">
-  <a href="https://twitter.com/itsamylyfe"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/amy-femal-66316419a/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px"    alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/itsamylyfe"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/amy-femal-66316419a/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px"    alt="LinkedIn"></a> &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/afemal"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30px" alt="GitHub"></a>
 </p>
 
