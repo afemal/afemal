@@ -2,7 +2,7 @@
   <img  src="https://user-images.githubusercontent.com/61814648/111558472-0c62d500-874c-11eb-954d-6c9520c731ec.png">
 </p>
 
-<br>
+<p align="center"> <br>
  <a href="https://twitter.com/itsamylyfe">
   <img align="left" alt="Amy's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -13,7 +13,7 @@
   <img align="left" alt="Amy's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br>
-
+</p>
 
 
 ## 📝 About Me
