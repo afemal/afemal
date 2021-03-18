@@ -1,6 +1,4 @@
-<h1 align="center"> ![](C:/Users/femaa001/Desktop/mystuff.png) </h1>
-
-
+<h1 align="center"> ![mystuff](https://user-images.githubusercontent.com/61814648/111558269-afffb580-874b-11eb-9b87-4d7cbefcdfbd.png) </h1>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/itsamylyfe)](https://twitter.com/itsamylyfe)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amy-femal-66316419a/)](https://www.linkedin.com/in/amy-femal-66316419a/)
