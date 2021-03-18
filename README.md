@@ -23,12 +23,12 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 
 ## 💥 Technologies I Use
 
-![Python](http://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
 ![R](http://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=ffffff)
-![RStudio](http://img.shields.io/badge/-rstudio-75AADB?style=flat-square&logo=RStudio&logoColor=ffffff)
-![LaTeX](http://img.shields.io/badge/-latex-008080?style=flat-square&logo=LaTeX&logoColor=ffffff)
-![SQLite](http://img.shields.io/badge/-sqlite-003B57?style=flat-square&logo=SQLite&logoColor=ffffff)
-![Tableau](http://img.shields.io/badge/-tableau-E97627?style=flat-square&logo=Tableau&logoColor=ffffff)
+![RStudio](http://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=ffffff)
+![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=ffffff)
+![SQLite](http://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=ffffff)
+![Tableau](http://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=ffffff)
 
 <hr/>
 
