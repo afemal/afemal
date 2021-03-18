@@ -3,7 +3,7 @@
 </p>
 
 <br>
- <a href="https://twitter.com/itsamylyfe">
+ <a align="center href="https://twitter.com/itsamylyfe">
   <img align="left" alt="Amy's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/amy-femal-66316419a/">
