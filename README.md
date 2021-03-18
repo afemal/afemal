@@ -33,7 +33,7 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 ![LaTeX](https://img.shields.io/badge/-latex-000000?style=flat&logo=latex)
 
 ![R](http://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=ffffff)
-![RStudio](http://img.shields.io/badge/-rstudio-007396?style=flat-square&logo=rstudio&logoColor=ffffff)
+![RStudio](http://img.shields.io/badge/-rstudio-75AADB?style=flat-square&logo=rstudio&logoColor=ffffff)
 ![MATLAB](http://img.shields.io/badge/-MATLAB-6DB33F?style=flat-square&logo=matlab&logoColor=ffffff)
 
 #### Editors and Operating Systems:
