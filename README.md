@@ -13,28 +13,22 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 ## 💻 Projects 
 
 * [Predicting the Cost of Medical Insurance](https://github.com/afemal/Projects/tree/main/Predicting%20the%20Cost%20of%20Health%20Insurance)
-
 * [Employee Attrition](https://github.com/afemal/Projects/tree/main/Employee%20Attrition)
-
 * [Breast Cancer Diagnosis](https://github.com/afemal/Projects/blob/main/Breast%20Cancer%20Diagnosis/BreastCancerDiagnosis.ipynb)
 
 ## 🎥 Presentations
 
 * [Predicting the Cost of Health Insurance](https://youtu.be/F4EP5Q5jQlY)
-
 * [Breast Cancer Diagnosis](https://github.com/afemal/Projects/blob/main/Breast%20Cancer%20Diagnosis/Breast%20Cancer%20Biopsy%20Data.pdf)
 
 ## 💥 Technologies I Use
 
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![LaTeX](https://img.shields.io/badge/-latex-000000?style=flat&logo=latex)
-
-![Python](http://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
 ![R](http://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=ffffff)
-![RStudio](http://img.shields.io/badge/-rstudio-75AADB?style=flat-square&logo=rstudio&logoColor=ffffff)
-![LaTeX](http://img.shields.io/badge/-latex-008080?style=flat-square&logo=latex&logoColor=ffffff)
-![SQLite](http://img.shields.io/badge/-sqlite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff)
-![Tableau](http://img.shields.io/badge/-tableau-E97627?style=flat-square&logo=tableau&logoColor=ffffff)
+![RStudio](http://img.shields.io/badge/-rstudio-75AADB?style=flat-square&logo=RStudio&logoColor=ffffff)
+![LaTeX](http://img.shields.io/badge/-latex-008080?style=flat-square&logo=LaTeX&logoColor=ffffff)
+![SQLite](http://img.shields.io/badge/-sqlite-003B57?style=flat-square&logo=SQLite&logoColor=ffffff)
+![Tableau](http://img.shields.io/badge/-tableau-E97627?style=flat-square&logo=Tableau&logoColor=ffffff)
 
 <hr/>
 
