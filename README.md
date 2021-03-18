@@ -5,6 +5,9 @@
 <br>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/amy-femal-66316419a/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  alt="LinkedIn"></a>
+
+<p align="center">
   <a href="https://twitter.com/itsamylyfe">
     <img align="left" alt="Amy's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
