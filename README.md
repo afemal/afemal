@@ -17,16 +17,22 @@
 Hey there! My name is Amy. I am currently a grad student studying Data Science. My undergrad studies were in Mathematics with a concentration in Probability and Statistics. I currently reside in Los Angeles, California. 
 <!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
 
+<br>
+
 ## 💻 Projects 
 
 * [Predicting the Cost of Medical Insurance](https://github.com/afemal/Projects/tree/main/Predicting%20the%20Cost%20of%20Health%20Insurance)
 * [Employee Attrition](https://github.com/afemal/Projects/tree/main/Employee%20Attrition)
 * [Breast Cancer Diagnosis](https://github.com/afemal/Projects/blob/main/Breast%20Cancer%20Diagnosis/BreastCancerDiagnosis.ipynb)
 
+<br>
+
 ## 🎥 Presentations
 
 * [Predicting the Cost of Health Insurance](https://youtu.be/F4EP5Q5jQlY)
 * [Breast Cancer Diagnosis](https://github.com/afemal/Projects/blob/main/Breast%20Cancer%20Diagnosis/Breast%20Cancer%20Biopsy%20Data.pdf)
+
+<br>
 
 ## 💥 Technologies I Use
 
