@@ -31,7 +31,7 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
 ![RStudio](https://img.shields.io/badge/-RStudio-000000?style=flat&logo=RStudio)
-![MATLAB](https://img.shields.io/badge/-matlab-000000?style=flat&logo=matlab)
+![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat&logo=MATLAB)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![LaTeX](https://img.shields.io/badge/-latex-000000?style=flat&logo=latex)
 
