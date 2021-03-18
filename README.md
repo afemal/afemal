@@ -1,5 +1,6 @@
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/61814648/111558472-0c62d500-874c-11eb-954d-6c9520c731ec.png">
+</p>
 
 <br>
  <a href="https://twitter.com/itsamylyfe">
@@ -12,7 +13,7 @@
   <img align="left" alt="Amy's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br>
-</p>
+
 
 
 ## 📝 About Me
@@ -41,7 +42,7 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 ![Tableau](http://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=ffffff)
 ![SAP](http://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=ffffff)
 
-<hr/>
+
 
 
 
