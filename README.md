@@ -26,20 +26,15 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 
 ## 💥 Technologies I Use
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
-![RStudio](https://img.shields.io/badge/-RStudio-000000?style=flat&logo=RStudio)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![LaTeX](https://img.shields.io/badge/-latex-000000?style=flat&logo=latex)
 
 ![Python](http://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![R](http://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=ffffff)
 ![RStudio](http://img.shields.io/badge/-rstudio-75AADB?style=flat-square&logo=rstudio&logoColor=ffffff)
-
-
-#### Editors and Operating Systems:
-
-![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
+![LaTeX](http://img.shields.io/badge/-latex-008080?style=flat-square&logo=latex&logoColor=ffffff)
+![SQLite](http://img.shields.io/badge/-sqlite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff)
+![Tableau](http://img.shields.io/badge/-tableau-E97627?style=flat-square&logo=tableau&logoColor=ffffff)
 
 <hr/>
 
