@@ -21,7 +21,7 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 
 ## 💻 Projects 
 
-* [Predicting the Cost of Medical Insurance](https://github.com/afemal/Projects/tree/main/Predicting%20the%20Cost%20of%20Health%20Insurance)
+* [Predicting the Cost of Health Insurance](https://github.com/afemal/Projects/tree/main/Predicting%20the%20Cost%20of%20Health%20Insurance)
 * [Employee Attrition](https://github.com/afemal/Projects/tree/main/Employee%20Attrition)
 * [Breast Cancer Diagnosis](https://github.com/afemal/Projects/blob/main/Breast%20Cancer%20Diagnosis/BreastCancerDiagnosis.ipynb)
 
@@ -46,9 +46,6 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 ![SAP](http://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=ffffff)
 
 
+⭐From [afemal](https://github.com/afemal)
 
-
-
-
-From [@AmyFemal](https://github.com/afemal)
 
