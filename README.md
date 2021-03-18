@@ -2,11 +2,23 @@
   <img  src="https://user-images.githubusercontent.com/61814648/111558472-0c62d500-874c-11eb-954d-6c9520c731ec.png">
 </p>
 
-<p align="center">
-  [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?   style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/itsamylyfe)](https://twitter.com/itsamylyfe)
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amy-femal- 66316419a/)](https://www.linkedin.com/in/amy-femal-66316419a/)
-  [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:afemal@my365.bellevue.edu)](mailto:afemal@my365.bellevue.edu)
-</p>
+<br> <br>
+ <a href="https://twitter.com/itsamylyfe">
+  <img align="left" alt="Amy's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/amy-femal-66316419a/">
+  <img align="left" alt="Amy's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/afemal">
+  <img align="left" alt="Amy's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br><br>
+
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?   style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/itsamylyfe)](https://twitter.com/itsamylyfe)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amy-femal- 66316419a/)](https://www.linkedin.com/in/amy-femal-66316419a/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:afemal@my365.bellevue.edu)](mailto:afemal@my365.bellevue.edu)
+
 
 ## 📝 About Me
 Hey there! My name is Amy. I am currently a grad student studying Data Science. My undergrad studies were in Mathematics with a concentration in Probability and Statistics. I currently reside in Los Angeles, California. 
@@ -35,6 +47,9 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 ![SAP](http://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=ffffff)
 
 <hr/>
+
+
+
 
 From [@AmyFemal](https://github.com/afemal)
 
