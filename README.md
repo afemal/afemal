@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/61814648/111558472-0c62d500-874c-11eb-954d-6c9520c731ec.png">
+  <img  src="https://user-images.githubusercontent.com/61814648/111558472-0c62d500-874c-11eb-954d-6c9520c731ec.png">
 </p>
 
 ![mystuff](https://user-images.githubusercontent.com/61814648/111558472-0c62d500-874c-11eb-954d-6c9520c731ec.png) 
