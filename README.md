@@ -1,8 +1,7 @@
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/61814648/111558472-0c62d500-874c-11eb-954d-6c9520c731ec.png">
-</p>
 
-<p align="center"> <br>
+<br>
  <a href="https://twitter.com/itsamylyfe">
   <img align="left" alt="Amy's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
