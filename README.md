@@ -2,7 +2,7 @@
   <img  src="https://user-images.githubusercontent.com/61814648/111558472-0c62d500-874c-11eb-954d-6c9520c731ec.png">
 </p>
 
-<br> <br>
+<br>
  <a href="https://twitter.com/itsamylyfe">
   <img align="left" alt="Amy's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -12,12 +12,8 @@
 <a href="https://github.com/afemal">
   <img align="left" alt="Amy's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<br><br>
+<br>
 
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?   style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/itsamylyfe)](https://twitter.com/itsamylyfe)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amy-femal- 66316419a/)](https://www.linkedin.com/in/amy-femal-66316419a/)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:afemal@my365.bellevue.edu)](mailto:afemal@my365.bellevue.edu)
 
 
 ## 📝 About Me
