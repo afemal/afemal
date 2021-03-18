@@ -7,7 +7,7 @@
 
 
 ## 📝 About Me
-Hey there! 😄 My name is Amy. I'm a Data Science grad student with a undergrad degree in Mathematics with a concentration in Probability and Statistics. I currently reside in Los Angeles, California. 
+Hey there! My name is Amy. I am currently a grad student studying Data Science. My undergrad studies were in Mathematics with a concentration in Probability and Statistics. I currently reside in Los Angeles, California. 
 <!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
 
 ## 💻 Projects 
@@ -26,9 +26,15 @@ Hey there! 😄 My name is Amy. I'm a Data Science grad student with a undergrad
 
 ## 💥 Technologies
 
-#### Software:
+#### Languages:
 
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
+![RStudio](https://img.shields.io/badge/-RStudio-000000?style=flat&logo=RStudio)
+![MATLAB](https://img.shields.io/badge/-matlab-000000?style=flat&logo=matlab)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![LaTeX](https://img.shields.io/badge/-latex-000000?style=flat&logo=latex)
+
 ![R](http://img.shields.io/badge/-R-007ACC?style=flat-square&logo=R&logoColor=ffffff)
 ![RStudio](http://img.shields.io/badge/-rstudio-007396?style=flat-square&logo=rstudio&logoColor=ffffff)
 ![MATLAB](http://img.shields.io/badge/-MATLAB-6DB33F?style=flat-square&logo=matlab&logoColor=ffffff)
