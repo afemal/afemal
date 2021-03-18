@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://twitter.com/itsamylyfe"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px"  alt="Twitter"></a> />
+  <a href="https://twitter.com/itsamylyfe"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px"  alt="Twitter">  /></a> 
   <a href="https://www.linkedin.com/in/amy-femal-66316419a/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px"    alt="LinkedIn"></a>
   <a href="https://github.com/afemal"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30px" alt="GitHub"></a>
 </p>
