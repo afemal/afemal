@@ -70,8 +70,5 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 <br>
 <br>
 
-
-
 ⭐ From [afemal](https://github.com/afemal)
-
 
