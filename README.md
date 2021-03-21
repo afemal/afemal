@@ -15,7 +15,7 @@
 
 
 ## 📝 About Me
-Hey there! My name is Amy. I am currently a grad student studying Data Science. My undergrad studies were in Mathematics with a concentration in Probability and Statistics. I currently reside in Los Angeles, California. 
+Hey there! My name is Amy. I am currently a grad student studying Data Science. My undergrad studies were in Mathematics with a concentration in Probability and Statistics. I currently reside in the Los Angeles Metropolitan Area. 
 <!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
 
 <br>
