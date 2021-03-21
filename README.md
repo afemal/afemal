@@ -60,6 +60,15 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 ![Power_BI](http://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=ffffff)
 ![SAP](http://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=ffffff)
 
+**Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=afemala&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afemal&count_private=true&theme=dracula">
+
+</p>
+
 ⭐From [afemal](https://github.com/afemal)
 
 
