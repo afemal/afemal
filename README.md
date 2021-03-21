@@ -69,6 +69,7 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/?username=afemal&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afemal&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
 </p>
 
 ⭐From [afemal](https://github.com/afemal)
