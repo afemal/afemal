@@ -17,7 +17,7 @@
 ## 📝 About Me
 Hey there! My name is Amy. I am currently a grad student studying Data Science. My undergrad studies were in Mathematics with a concentration in Probability and Statistics. I currently reside in Los Angeles, California. 
 <!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
-
+---
 <br>
 
 ## 💻 Projects 
@@ -26,14 +26,14 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 * [Employee Attrition](https://github.com/afemal/Projects/tree/main/Employee%20Attrition)
 * [Breast Cancer Diagnosis](https://github.com/afemal/Projects/blob/main/Breast%20Cancer%20Diagnosis/BreastCancerDiagnosis.ipynb)
 * [Breast Cancer Analysis](https://github.com/afemal/Projects/tree/main/Breast%20Cancer%20Analysis)
-
+---
 <br>
 
 ## 🎥 Presentations
 
 * [Predicting the Cost of Health Insurance](https://youtu.be/F4EP5Q5jQlY)
 * [Breast Cancer Diagnosis](https://github.com/afemal/Projects/blob/main/Breast%20Cancer%20Diagnosis/Breast%20Cancer%20Biopsy%20Data.pdf)
-
+---
 <br>
 
 ## ⌛ Upcoming Projects
@@ -45,7 +45,7 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 * Earthquake Occurrence Rates within a Spatio-Temporal Window
 * Taxi Fares in Washington DC
 * Analysis of Arsenic Concentration in Breast Milk Among Women in USA, Poland, and Argentina
-
+---
 <br>
 
 ## 💥 Technologies I Use
@@ -59,8 +59,10 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 ![Tableau](http://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=ffffff)
 ![Power_BI](http://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=000000)
 ![SAP](http://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=ffffff)
+---
+<br>
 
-## ℹ️ Github Stats
+## ℹ️ GitHub Stats
 
 <p align="center">
   
