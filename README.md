@@ -57,15 +57,14 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 ![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=ffffff)
 ![SQLite](http://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=ffffff)
 ![Tableau](http://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=ffffff)
-![Power_BI](http://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=ffffff)
+![Power_BI](http://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=ffffff&text_color=ffffff)
 ![SAP](http://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=ffffff)
 
 **Github Stats:**
 
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=afemal&hide=stars&show_icons=true>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afemal&count_private=true>
+  <img src="https://github-readme-stats.vercel.app/api?username=afemal&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afemal&count_private=true&theme=dracula">
 
 </p>
 
