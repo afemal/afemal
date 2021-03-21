@@ -39,7 +39,7 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 ## ⌛ Upcoming Projects
 
 * Credit Card Churn
-* Risks of Anastomotic Leaking following a Colectomy Associated with BMI
+* Risks of Anastomotic Leaking following a Colectomy associated with BMI
 * Breakfast Cereal Analysis
 * Suggested Retail Price of New Cars
 * Earthquake Occurrence Rates within a Spatio-Temporal Window
