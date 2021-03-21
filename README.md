@@ -60,7 +60,7 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 ![Power_BI](http://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=000000)
 ![SAP](http://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=ffffff)
 
-## Github Stats
+## ℹ️ Github Stats
 
 <p align="center">
   
