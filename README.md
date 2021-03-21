@@ -36,6 +36,18 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 
 <br>
 
+## ⌛ Upcoming Projects
+
+* Credit Card Churn
+* Risks of Anastomotic Leaking following a Colectomy Associated with BMI
+* Breakfast Cereal Analysis
+* Suggested Retail Price of New Cars
+* Earthquake Occurrence Rates within a Spatio-Temporal Window
+* Taxi Fares in Washington DC
+* Analysis of Arsenic Concentration in Breast Milk Among Women in USA, Poland, and Argentina
+
+<br>
+
 ## 💥 Technologies I Use
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
