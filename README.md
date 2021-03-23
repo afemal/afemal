@@ -25,11 +25,11 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 ### Predictive Analytics
 * [The Cost of Health Insurance](https://github.com/afemal/The_Cost_of_Health_Insurance)
 * [Employee Attrition](https://github.com/afemal/Employee_Attrition)
-* [Breast Cancer Diagnosis](https://github.com/afemal/Projects/blob/main/Breast%20Cancer%20Diagnosis/BreastCancerDiagnosis.ipynb)
 * [Breast Cancer Analysis](https://github.com/afemal/Projects/tree/main/Breast%20Cancer%20Analysis)
 * [Breakfast Cereal Analysis](https://github.com/afemal/Projects/tree/main/Breakfast%20Cereal%20Analysis)
 
 ### Exploratory Data Analysis
+* [Breast Cancer Biopsy Data](https://github.com/afemal/Breast_Cancer_Biopsy_Data)
 
 ### Data Preparation
 
