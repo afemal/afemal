@@ -36,7 +36,7 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 * TBD
 * TBD
 * Python Programming Projects 
-<!--* Risks of Anastomotic Leaking following a Colectomy associated with BMI 
+<!-- * Risks of Anastomotic Leaking following a Colectomy associated with BMI 
 * Suggested Retail Price of New Cars
 * Earthquake Occurrence Rates within a Spatio-Temporal Window
 * Taxi Fares in Washington DC
