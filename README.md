@@ -24,21 +24,23 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 * [The Cost of Health Insurance](https://github.com/afemal/The_Cost_of_Health_Insurance)
 * [Employee Attrition](https://github.com/afemal/Employee_Attrition)
 * [Breast Cancer Analysis](https://github.com/afemal/Breast_Cancer_Analysis)
+* [Data Wrangling with Book Data](https://github.com/afemal/Book_Data)
 * [Breast Cancer Biopsy Data](https://github.com/afemal/Breast_Cancer_Biopsy_Data)
 * [Breastfast Cereal Analysis](https://github.com/afemal/Breakfast_Cereal_Analysis) 
-
-<!-- ### Data Preparation -->
 
 <br>
 
 ## ⌛ Upcoming Projects
 
 * Credit Card Churn
-* Risks of Anastomotic Leaking following a Colectomy associated with BMI
+* TBD
+* TBD
+* Python Programming Projects 
+<!--* Risks of Anastomotic Leaking following a Colectomy associated with BMI 
 * Suggested Retail Price of New Cars
 * Earthquake Occurrence Rates within a Spatio-Temporal Window
 * Taxi Fares in Washington DC
-* Analysis of Arsenic Concentration in Breast Milk Among Women in USA, Poland, and Argentina
+* Analysis of Arsenic Concentration in Breast Milk Among Women in USA, Poland, and Argentina -->
 
 <br>
 
