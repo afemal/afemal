@@ -35,12 +35,12 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 * Credit Card Churn
 * TBD
 * TBD
-* Python Programming Projects 
-<!-- * Risks of Anastomotic Leaking following a Colectomy associated with BMI 
-* Suggested Retail Price of New Cars
-* Earthquake Occurrence Rates within a Spatio-Temporal Window
-* Taxi Fares in Washington DC
-* Analysis of Arsenic Concentration in Breast Milk Among Women in USA, Poland, and Argentina -->
+* Miscellaneous Python Programming Projects 
+<!-- * Risks of Anastomotic Leaking following a Colectomy associated with BMI --> 
+<!-- * Suggested Retail Price of New Cars -->
+<!-- * Earthquake Occurrence Rates within a Spatio-Temporal Window -->
+<!-- * Taxi Fares in Washington DC -->
+<!-- * Analysis of Arsenic Concentration in Breast Milk Among Women in USA, Poland, and Argentina -->
 
 <br>
 
