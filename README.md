@@ -21,6 +21,7 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 <br>
 
 ## 💻 Projects 
+* [Credit Card Churn](https://github.com/afemal/Credit_Card_Churn)
 * [The Cost of Health Insurance](https://github.com/afemal/The_Cost_of_Health_Insurance)
 * [Employee Attrition](https://github.com/afemal/Employee_Attrition)
 * [Breast Cancer Analysis](https://github.com/afemal/Breast_Cancer_Analysis)
@@ -31,11 +32,10 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 <br>
 
 ## ⌛ Upcoming Projects
-
-* Credit Card Churn
-* TBD
-* TBD
 * Miscellaneous Python Programming Projects 
+* Amusement Park Safety
+* TBD
+
 <!-- * Risks of Anastomotic Leaking following a Colectomy associated with BMI --> 
 <!-- * Suggested Retail Price of New Cars -->
 <!-- * Earthquake Occurrence Rates within a Spatio-Temporal Window -->
