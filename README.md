@@ -32,9 +32,9 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 <br>
 
 ## ⌛ Upcoming Projects
+* Stock Price Forecasting 
 * Miscellaneous Python Programming Projects 
-* Amusement Park Safety
-* TBD
+* Amusement Park Safety - pending
 
 <!-- * Risks of Anastomotic Leaking following a Colectomy associated with BMI --> 
 <!-- * Suggested Retail Price of New Cars -->
