@@ -21,6 +21,7 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 <br>
 
 ## 💻 Projects 
+* [Stock Price Forecasting](https://github.com/afemal/Stock_Price_Forecasting)
 * [Credit Card Churn](https://github.com/afemal/Credit_Card_Churn)
 * [The Cost of Health Insurance](https://github.com/afemal/The_Cost_of_Health_Insurance)
 * [Employee Attrition](https://github.com/afemal/Employee_Attrition)
@@ -32,7 +33,7 @@ Hey there! My name is Amy. I am currently a grad student studying Data Science. 
 <br>
 
 ## ⌛ Upcoming Projects
-* Stock Price Forecasting 
+* Airline Safety
 * Miscellaneous Python Programming Projects 
 * Amusement Park Safety - pending
 
